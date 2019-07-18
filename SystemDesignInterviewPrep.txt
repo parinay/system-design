@@ -53,7 +53,7 @@ Virtual machines and containers
 Pub-sub architecture 
 MapReduce
 Multithreading, locks, synchronization, CAS(compare and set)
-
+Threadpool/workerpools - https://en.wikipedia.org/wiki/Thread_pool
 Tools
 Cassandra
 MongoDB/Couchbase
